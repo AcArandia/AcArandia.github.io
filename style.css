@@ -13,12 +13,17 @@ html {
 h1 {
     font-size: 25px;
     color: aliceblue;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+
 }
 
 span {
     font-size: 2em;
     font-family: 'Lobster', cursive;
 }
+
 
 header {
     margin-top: 250px;
